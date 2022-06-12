@@ -23,18 +23,18 @@ export class HomePageComponent implements OnInit {
   slides = [
     {
       image:
-        'https://isd-soft.com/wp-content/uploads/2019/09/P.2.1-1768x995.jpg',
+        'https://soject.com/wp-content/uploads/2020/08/annie-spratt-QckxruozjRg-unsplash-1.jpg',
     },
     {
-      image: 'https://isd-soft.com/wp-content/uploads/2019/09/P.3.3.jpg',
-    },
-    {
-      image:
-        'https://isd-soft.com/wp-content/uploads/2020/04/The-WHO-and-WHY-of-the-JAVA-Internship-programs-2-768x478.png',
+      image: 'https://img.freepik.com/free-photo/diverse-team-young-software-programmers-using-computers-writing-code-while-collaborating-project-it-development-studio-copy-space_236854-29533.jpg?w=2000',
     },
     {
       image:
-        'https://isd-soft.com/wp-content/uploads/2020/04/Learn-the-fundamental-secrets-of-Java-programming-1-1024x684.jpg',
+        'https://miro.medium.com/max/1400/0*AZw9xyZa0f1veJg0',
+    },
+    {
+      image:
+        'https://miro.medium.com/max/1400/0*VfeKJdOSbVwQVm0L',
     },
   ];
 
